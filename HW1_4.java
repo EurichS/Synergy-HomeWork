@@ -1,7 +1,6 @@
 import java.util.Scanner;
 import static java.lang.System.out;
-public class HW1_4;
-{
+public class HW1_4 {
 	public static void main(String[] args) {
 	    out.println("Inputs numbers for converting");
 	    out.println("byte-->short");
