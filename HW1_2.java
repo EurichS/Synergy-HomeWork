@@ -1,4 +1,4 @@
-public class HW1_2_1
+public class HW1_2_1;
 {
 	public static void main(String[] args) {
 	    
