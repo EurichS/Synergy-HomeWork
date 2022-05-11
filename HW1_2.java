@@ -1,5 +1,4 @@
-public class HW1_2_1;
-{
+public class HW1_2_1 {
 	public static void main(String[] args) {
 	    
 	    if(Math.pow(5,15)>1000000000){       //1
